@@ -1,3 +1,6 @@
+
+!!! 注意 :加入一个微信扫码登录的测试的文件, login.php , 此文件与其它文件无任何关联 !!!
+
 ### 1，SDK简介
 
 本SDK是基于ThinkPHP开发类库扩展，因此只能在ThinkPHP平台下使用（ThinkPHP版本要求2.0以上）。DEMO中用到了控制器分层，因此运行DEMO需使用ThinkPHP3.1.2版本。
